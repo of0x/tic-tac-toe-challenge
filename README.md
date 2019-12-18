@@ -24,7 +24,7 @@ Make sure to provide instruction about how to setup, run and consume your REST A
 
 ## Technologies
 
-We prefer Python and the tornado framework, but they are not required. You can use whatever technology you prefer.
+You can use any REST framework you prefer to implement the API (Flask, Tornado, etc.) 
 
 Game data structure
 A game consists of:
