@@ -7,7 +7,7 @@ HONOR RULES: You must do this challenge on your own, without assistance or revie
 
 TIME LIMIT: You have 3 days from the date you receive a link to this site. You may submit your work earlier.
 
-TASK: Your task it implement a simple but comprehensive REST API for a [tic-tac-toe game](https://en.wikipedia.org/wiki/Tic-tac-toe)
+TASK: Your task is to implement a simple but comprehensive REST API for a [tic-tac-toe game](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## Requirements
 
